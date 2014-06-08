@@ -8,6 +8,5 @@ public class FirstBranchFirstClass {
         double m;
         System.out.print("FirstBranch-line");
         String s;
-
     }
 }
