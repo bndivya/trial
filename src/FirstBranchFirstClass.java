@@ -4,5 +4,6 @@
 public class FirstBranchFirstClass {
     void add() {
         System.out.print("blabla");
+        int a=27+48;
     }
 }
