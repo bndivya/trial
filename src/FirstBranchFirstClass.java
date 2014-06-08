@@ -6,5 +6,6 @@ public class FirstBranchFirstClass {
         System.out.print("blabla");
         int a=27+48;
         double m;
+        System.out.print("blabla1");
     }
 }
