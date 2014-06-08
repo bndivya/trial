@@ -7,6 +7,5 @@ public class FirstBranchFirstClass {
         int a=27+48;
         double m;
         System.out.print("FirstBranch-line");
-        String s;
     }
 }
